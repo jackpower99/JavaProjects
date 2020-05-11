@@ -1,0 +1,16 @@
+<object-stream>
+  <list>
+    <Country>
+      <name>Ireland</name>
+      <meps>
+        <MEP>
+          <MEPName>Jo</MEPName>
+          <MEPEmail>@j</MEPEmail>
+          <MEPPhone>12</MEPPhone>
+          <MEPParty></MEPParty>
+        </MEP>
+      </meps>
+      <noMEPs>1</noMEPs>
+    </Country>
+  </list>
+</object-stream>
